@@ -27,10 +27,13 @@ public class Arraylist {
         
         //printing arraylist with iterator
         Iterator i = name.iterator();
+        System.out.println("arraylist contains "+name.size()+" Sring characters");
         while(i.hasNext())
         {
+                
                 System.out.println(i.next());
                         }
+        
         
         
     }
