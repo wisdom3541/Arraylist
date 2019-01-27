@@ -8,7 +8,7 @@ package arraylist;
 import java.util.*;
 /**
  *
- * @author Bossbrown
+ * @author Wisdom
  */
 public class Arraylist {
 
